@@ -1,0 +1,2 @@
+arcaflow-plugin-sdk==0.3.0
+kubernetes
